@@ -1,4 +1,4 @@
-# Xylaphone
+# Xylophone
 
 Virtual xylophone that was build for a math class in one of Dublin schools.
 
