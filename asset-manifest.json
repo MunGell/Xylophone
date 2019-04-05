@@ -1,13 +1,13 @@
 {
-  "main.css": "/xylophone/static/css/main.61a8b1fa.chunk.css",
-  "main.js": "/xylophone/static/js/main.5feddc87.chunk.js",
-  "main.js.map": "/xylophone/static/js/main.5feddc87.chunk.js.map",
-  "runtime~main.js": "/xylophone/static/js/runtime~main.f9ca46b3.js",
-  "runtime~main.js.map": "/xylophone/static/js/runtime~main.f9ca46b3.js.map",
-  "static/js/2.2a3879e5.chunk.js": "/xylophone/static/js/2.2a3879e5.chunk.js",
-  "static/js/2.2a3879e5.chunk.js.map": "/xylophone/static/js/2.2a3879e5.chunk.js.map",
-  "index.html": "/xylophone/index.html",
-  "precache-manifest.27f29b8cf8ee4f3b92513690d5d4507b.js": "/xylophone/precache-manifest.27f29b8cf8ee4f3b92513690d5d4507b.js",
-  "service-worker.js": "/xylophone/service-worker.js",
-  "static/css/main.61a8b1fa.chunk.css.map": "/xylophone/static/css/main.61a8b1fa.chunk.css.map"
+  "main.css": "/Xylophone/static/css/main.61a8b1fa.chunk.css",
+  "main.js": "/Xylophone/static/js/main.5feddc87.chunk.js",
+  "main.js.map": "/Xylophone/static/js/main.5feddc87.chunk.js.map",
+  "runtime~main.js": "/Xylophone/static/js/runtime~main.29ec15ba.js",
+  "runtime~main.js.map": "/Xylophone/static/js/runtime~main.29ec15ba.js.map",
+  "static/js/2.2a3879e5.chunk.js": "/Xylophone/static/js/2.2a3879e5.chunk.js",
+  "static/js/2.2a3879e5.chunk.js.map": "/Xylophone/static/js/2.2a3879e5.chunk.js.map",
+  "index.html": "/Xylophone/index.html",
+  "precache-manifest.074dbe5ea92d9b49bc6c62af9a0942dc.js": "/Xylophone/precache-manifest.074dbe5ea92d9b49bc6c62af9a0942dc.js",
+  "service-worker.js": "/Xylophone/service-worker.js",
+  "static/css/main.61a8b1fa.chunk.css.map": "/Xylophone/static/css/main.61a8b1fa.chunk.css.map"
 }
