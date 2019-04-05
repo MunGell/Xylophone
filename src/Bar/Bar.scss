@@ -53,24 +53,45 @@ $bar-base-height: 200px;
 .bar-color {
   &-red {
     background: red;
+    &.bar-touched {
+      background: darken(red, 10%);
+    }
   }
   &-orange {
     background: orange;
+    &.bar-touched {
+      background: darken(orange, 10%);
+    }
   }
   &-yellow {
     background: yellow;
+    &.bar-touched {
+      background: darken(yellow, 10%);
+    }
   }
   &-green {
     background: green;
+    &.bar-touched {
+      background: darken(green, 10%);
+    }
   }
   &-blue {
     background: royalblue;
+    &.bar-touched {
+      background: darken(royalblue, 10%);
+    }
   }
   &-darkblue {
     background: darkblue;
+    &.bar-touched {
+      background: darken(darkblue, 10%);
+    }
   }
   &-violet {
     background: blueviolet;
+    &.bar-touched {
+      background: darken(blueviolet, 10%);
+    }
   }
 }
 
@@ -80,4 +101,5 @@ $bar-base-height: 200px;
   background: white;
   border-radius: 50%;
   line-height: 50px;
+  text-align: center;
 }
