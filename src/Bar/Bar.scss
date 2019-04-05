@@ -1,0 +1,83 @@
+$bar-base-height: 200px;
+
+.bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 6vw;
+  min-width:55px;
+  height: $bar-base-height;
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.bar-size {
+  &-1 {
+    height: $bar-base-height + $bar-base-height/10 * 1;
+  }
+  &-2 {
+    height: $bar-base-height + $bar-base-height/10 * 2;
+  }
+  &-3 {
+    height: $bar-base-height + $bar-base-height/10 * 3;
+  }
+  &-4 {
+    height: $bar-base-height + $bar-base-height/10 * 4;
+  }
+  &-5 {
+    height: $bar-base-height + $bar-base-height/10 * 5;
+  }
+  &-6 {
+    height: $bar-base-height + $bar-base-height/10 * 6;
+  }
+  &-7 {
+    height: $bar-base-height + $bar-base-height/10 * 7;
+  }
+  &-8 {
+    height: $bar-base-height + $bar-base-height/10 * 8;
+  }
+  &-9 {
+    height: $bar-base-height + $bar-base-height/10 * 9;
+  }
+  &-10 {
+    height: $bar-base-height + $bar-base-height/10 * 10;
+  }
+  &-11 {
+    height: $bar-base-height + $bar-base-height/10 * 11;
+  }
+  &-12 {
+    height: $bar-base-height + $bar-base-height/10 * 12;
+  }
+}
+
+.bar-color {
+  &-red {
+    background: red;
+  }
+  &-orange {
+    background: orange;
+  }
+  &-yellow {
+    background: yellow;
+  }
+  &-green {
+    background: green;
+  }
+  &-blue {
+    background: royalblue;
+  }
+  &-darkblue {
+    background: darkblue;
+  }
+  &-violet {
+    background: blueviolet;
+  }
+}
+
+.bar-text {
+  height: 50px;
+  width: 50px;
+  background: white;
+  border-radius: 50%;
+  line-height: 50px;
+}
