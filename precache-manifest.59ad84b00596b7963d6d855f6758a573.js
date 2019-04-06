@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "970961b1a902b13ff707",
-    "url": "/Xylophone/static/css/main.61a8b1fa.chunk.css"
+    "revision": "79f995b1a317816a6361",
+    "url": "/Xylophone/static/css/main.86011455.chunk.css"
   },
   {
-    "revision": "970961b1a902b13ff707",
+    "revision": "79f995b1a317816a6361",
     "url": "/Xylophone/static/js/main.5feddc87.chunk.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Xylophone/static/js/2.2a3879e5.chunk.js"
   },
   {
-    "revision": "9f9b5e045141a2848063ed614c808505",
+    "revision": "cb14faf66f0a413cab21738d0f8b3a30",
     "url": "/Xylophone/index.html"
   }
 ];

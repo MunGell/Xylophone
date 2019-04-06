@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Xylophone/precache-manifest.074dbe5ea92d9b49bc6c62af9a0942dc.js"
+  "/Xylophone/precache-manifest.59ad84b00596b7963d6d855f6758a573.js"
 );
 
 workbox.clientsClaim();
